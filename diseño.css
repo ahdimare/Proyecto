@@ -50,3 +50,38 @@ div#columna2{
     
    
 }
+
+.contenedormenu{
+    padding-top: 20%;
+  background-color: purple;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.item{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 lightskyblue;
+    float: left;
+    width: 350px;
+    
+}
+.item-img{
+    width: 100%;
+    height: auto;
+
+}
+.item:hover{
+    border: 1px solid lightpink;
+    transform: rotate(-3deg);
+}
+
+.item-text{
+    text-align: center;
+    text-shadow: 2px 2px 5 px pink;
+}
+
+.formulario{
+    width: 300px;
+    height: 500px;
+
+}
